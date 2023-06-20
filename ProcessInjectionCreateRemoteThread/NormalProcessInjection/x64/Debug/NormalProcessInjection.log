@@ -1,0 +1,5 @@
+﻿  NormalProcessInjection.cpp
+  LINK : C:\Users\Blu-Ray\source\testing\ProcessInjectionCreateRemoteThread\x64\Debug\NormalProcessInjection.exe not found or not built by the last incremental link; performing full link
+NormalProcessInjection.obj : error LNK2019: unresolved external symbol __imp__invalid_parameter referenced in function "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z)
+NormalProcessInjection.obj : error LNK2019: unresolved external symbol __imp__CrtDbgReport referenced in function "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z)
+C:\Users\Blu-Ray\source\testing\ProcessInjectionCreateRemoteThread\x64\Debug\NormalProcessInjection.exe : fatal error LNK1120: 2 unresolved externals
