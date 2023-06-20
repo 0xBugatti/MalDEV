@@ -1,0 +1,16 @@
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\bin\x64\Debug\RefShellCodeRunner.exe
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\bin\x64\Debug\RefShellCodeRunner.exe.config
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.exe
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.pdb
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\bin\x64\Debug\RefShellCodeRunner.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\EEDS\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\EEDS\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\EEDS\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\EEDS\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\EEDS\RefShellCodeRunner\RefShellCodeRunner\obj\x64\Debug\RefShellCodeRunner.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\EEDS\RefShellCodeRunner\RefShellCodeRunner\bin\x64\Debug\RefShellCodeRunner.exe.config
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\EEDS\RefShellCodeRunner\RefShellCodeRunner\bin\x64\Debug\RefShellCodeRunner.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\EEDS\RefShellCodeRunner\RefShellCodeRunner\bin\x64\Debug\RefShellCodeRunner.pdb

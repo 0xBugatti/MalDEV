@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerXOR\ShellCodeRunnerXOR\obj\Debug\ShellCodeRunnerXOR.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerXOR\ShellCodeRunnerXOR\obj\Debug\ShellCodeRunnerXOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerXOR\ShellCodeRunnerXOR\obj\Debug\ShellCodeRunnerXOR.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerXOR\ShellCodeRunnerXOR\bin\Debug\ShellCodeRunnerXOR.exe.config
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerXOR\ShellCodeRunnerXOR\bin\Debug\ShellCodeRunnerXOR.exe
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerXOR\ShellCodeRunnerXOR\bin\Debug\ShellCodeRunnerXOR.pdb
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerXOR\ShellCodeRunnerXOR\obj\Debug\ShellCodeRunnerXOR.exe
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerXOR\ShellCodeRunnerXOR\obj\Debug\ShellCodeRunnerXOR.pdb

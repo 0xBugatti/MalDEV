@@ -1,0 +1,3 @@
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\obj\Debug\RefShellCodeRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\obj\Debug\RefShellCodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\RefShellCodeRunner\RefShellCodeRunner\obj\Debug\RefShellCodeRunner.csproj.CoreCompileInputs.cache

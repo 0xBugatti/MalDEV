@@ -1,0 +1,55 @@
+Renamed Types:
+
+[RefShellCodeRunner]<PrivateImplementationDetails> -> [RefShellCodeRunner]쾛.쿏
+{
+	<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1287 [RefShellCodeRunner]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1287 <PrivateImplementationDetails>::48A00647CE87C0F2D49199E422B0CB976F11F0F78B89B2D35FC45F5E48AC0682 -> 쾛
+}
+
+[RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_0 -> [RefShellCodeRunner]쾛.쾛/쾛
+{
+	System.Reflection.MethodInfo [RefShellCodeRunner]System.Reflection.MethodInfo RefShellCodeRunner.Program/<>c__DisplayClass0_0::GetProcADDR -> 쿏
+	System.Reflection.MethodInfo [RefShellCodeRunner]System.Reflection.MethodInfo RefShellCodeRunner.Program/<>c__DisplayClass0_0::GetModuleHAND -> 쿆
+}
+
+[RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_1 -> [RefShellCodeRunner]쾛.쾛/쿏
+{
+	System.String [RefShellCodeRunner]System.String RefShellCodeRunner.Program/<>c__DisplayClass0_1::DLLName -> 쾻
+	System.String [RefShellCodeRunner]System.String RefShellCodeRunner.Program/<>c__DisplayClass0_1::FucntionName -> 쿓
+}
+
+[RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_2 -> [RefShellCodeRunner]쾛.쾛/쿆
+{
+	System.String [RefShellCodeRunner]System.String RefShellCodeRunner.Program/<>c__DisplayClass0_2::DLLName -> 쿁
+	System.String [RefShellCodeRunner]System.String RefShellCodeRunner.Program/<>c__DisplayClass0_2::FucntionName -> 쾾
+}
+
+[RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_3 -> [RefShellCodeRunner]쾛.쾛/쾻
+{
+	System.String [RefShellCodeRunner]System.String RefShellCodeRunner.Program/<>c__DisplayClass0_3::DLLName -> 쿡
+	System.String [RefShellCodeRunner]System.String RefShellCodeRunner.Program/<>c__DisplayClass0_3::FucntionName -> 콺
+}
+
+[RefShellCodeRunner]RefShellCodeRunner.Program -> [RefShellCodeRunner]쾛.쾛
+{
+	[RefShellCodeRunner]RefShellCodeRunner.Program::Main[1]( [mscorlib]System.String[] ) -> 쾛
+	[RefShellCodeRunner]RefShellCodeRunner.Program::<Main>g__ExecFunctionWithReflection6|0_0[10]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_0& ) -> 쾛
+	[RefShellCodeRunner]RefShellCodeRunner.Program::<Main>g__DynamicLookUPFunc|0_3[2]( [RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_0&, [RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_1& ) -> 쾛
+	[RefShellCodeRunner]RefShellCodeRunner.Program::<Main>g__ExecFunctionWithReflection2|0_1[6]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_0& ) -> 쾛
+	[RefShellCodeRunner]RefShellCodeRunner.Program::<Main>g__DynamicLookUPFunc|0_4[2]( [RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_0&, [RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_2& ) -> 쾛
+	[RefShellCodeRunner]RefShellCodeRunner.Program::<Main>g__ExecFunctionWithReflection4|0_2[8]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_0& ) -> 쾛
+	[RefShellCodeRunner]RefShellCodeRunner.Program::<Main>g__DynamicLookUPFunc|0_5[2]( [RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_0&, [RefShellCodeRunner]RefShellCodeRunner.Program/<>c__DisplayClass0_3& ) -> 쾛
+
+	[RefShellCodeRunner]RefShellCodeRunner.Program::.ctor[0]( ) skipped:  special name
+}
+
+[RefShellCodeRunner]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1287 -> [RefShellCodeRunner]쾛.쿏/쾛
+{
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+
