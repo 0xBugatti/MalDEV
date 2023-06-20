@@ -1,0 +1,16 @@
+C:\Users\Blu-Ray\source\dlls\Bytes\Bytes\bin\Debug\Bytes.exe.config
+C:\Users\Blu-Ray\source\dlls\Bytes\Bytes\bin\Debug\Bytes.exe
+C:\Users\Blu-Ray\source\dlls\Bytes\Bytes\bin\Debug\Bytes.pdb
+C:\Users\Blu-Ray\source\dlls\Bytes\Bytes\obj\Debug\Bytes.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\dlls\Bytes\Bytes\obj\Debug\Bytes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\dlls\Bytes\Bytes\obj\Debug\Bytes.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\dlls\Bytes\Bytes\obj\Debug\Bytes.exe
+C:\Users\Blu-Ray\source\dlls\Bytes\Bytes\obj\Debug\Bytes.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Basics\Bytes\Bytes\bin\Debug\Bytes.exe.config
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Basics\Bytes\Bytes\bin\Debug\Bytes.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Basics\Bytes\Bytes\bin\Debug\Bytes.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Basics\Bytes\Bytes\obj\Debug\Bytes.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Basics\Bytes\Bytes\obj\Debug\Bytes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Basics\Bytes\Bytes\obj\Debug\Bytes.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Basics\Bytes\Bytes\obj\Debug\Bytes.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Basics\Bytes\Bytes\obj\Debug\Bytes.pdb

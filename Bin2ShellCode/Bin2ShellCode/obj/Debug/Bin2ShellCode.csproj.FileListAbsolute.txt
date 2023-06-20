@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\Bin2ShellCode\Bin2ShellCode\bin\Debug\Bin2ShellCode.exe.config
+C:\Users\Blu-Ray\source\testing\Bin2ShellCode\Bin2ShellCode\bin\Debug\Bin2ShellCode.exe
+C:\Users\Blu-Ray\source\testing\Bin2ShellCode\Bin2ShellCode\bin\Debug\Bin2ShellCode.pdb
+C:\Users\Blu-Ray\source\testing\Bin2ShellCode\Bin2ShellCode\obj\Debug\Bin2ShellCode.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\Bin2ShellCode\Bin2ShellCode\obj\Debug\Bin2ShellCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\Bin2ShellCode\Bin2ShellCode\obj\Debug\Bin2ShellCode.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\Bin2ShellCode\Bin2ShellCode\obj\Debug\Bin2ShellCode.exe
+C:\Users\Blu-Ray\source\testing\Bin2ShellCode\Bin2ShellCode\obj\Debug\Bin2ShellCode.pdb
