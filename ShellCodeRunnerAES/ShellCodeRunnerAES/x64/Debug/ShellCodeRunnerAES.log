@@ -1,0 +1,16 @@
+﻿  ShellCodeRunnerAES.cpp
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,17): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,35): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,64): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,64): warning C4309: 'initializing': truncation of constant value
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,70): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,70): warning C4309: 'initializing': truncation of constant value
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,76): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,76): warning C4309: 'initializing': truncation of constant value
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,88): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\ShellCodeRunnerAES\ShellCodeRunnerAES.cpp(56,88): warning C4309: 'initializing': truncation of constant value
+  ShellCodeRunnerAES.vcxproj -> C:\Users\Blu-Ray\source\testing\ShellCodeRunnerAES\x64\Debug\ShellCodeRunnerAES.exe

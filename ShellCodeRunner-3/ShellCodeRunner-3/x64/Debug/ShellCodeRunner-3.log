@@ -1,0 +1,3 @@
+﻿  ShellCodeRunner-3.cpp
+C:\Users\Blu-Ray\0xTest\0xOSEP\C++\ShellCode Runners\ShellCodeRunner-3\ShellCodeRunner-3\ShellCodeRunner-3.cpp(40,10): warning C4101: 'rv': unreferenced local variable
+  ShellCodeRunner-3.vcxproj -> C:\Users\Blu-Ray\0xTest\0xOSEP\C++\ShellCode Runners\ShellCodeRunner-3\x64\Debug\ShellCodeRunner-3.exe
