@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Reflection-Beta\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Reflection-Beta\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Reflection-Beta\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Reflection-Beta\ConsoleApp\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Reflection-Beta\ConsoleApp\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Reflection-Beta\ConsoleApp\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Reflection-Beta\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\Reflection-Beta\ConsoleApp\obj\Debug\ConsoleApp.pdb
