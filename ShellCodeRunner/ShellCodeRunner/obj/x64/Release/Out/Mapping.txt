@@ -1,0 +1,29 @@
+Renamed Types:
+
+[ShellCodeRunner]랱.랴 -> [ShellCodeRunner]띺.뜷
+{
+	랱.랴/랱 [ShellCodeRunner]랱.랴/랱 랱.랴::랱 -> 띺
+}
+
+[ShellCodeRunner]랱.랱 -> [ShellCodeRunner]띺.띺
+{
+	[ShellCodeRunner]랱.랱::랱[4]( [mscorlib]System.IntPtr, [mscorlib]System.UInt32, [mscorlib]System.UInt32, [mscorlib]System.UInt32 ) -> 띺
+	[ShellCodeRunner]랱.랱::랱[6]( [mscorlib]System.IntPtr, [mscorlib]System.UInt32, [mscorlib]System.IntPtr, [mscorlib]System.IntPtr, [mscorlib]System.UInt32, [mscorlib]System.IntPtr ) -> 띺
+	[ShellCodeRunner]랱.랱::랱[2]( [mscorlib]System.IntPtr, [mscorlib]System.UInt32 ) -> 띺
+	[ShellCodeRunner]랱.랱::랱[1]( [mscorlib]System.String[] ) -> 띺
+	[ShellCodeRunner]랱.랱::랱[1]( [mscorlib]System.Int32 ) -> 띺
+
+	[ShellCodeRunner]랱.랱::.ctor[0]( ) skipped:  special name
+}
+
+[ShellCodeRunner]랱.랴/랱 -> [ShellCodeRunner]띺.뜷/띺
+{
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+

@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\bin\Debug\ShellCodeRunner.exe.config
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\bin\Debug\ShellCodeRunner.exe
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\bin\Debug\ShellCodeRunner.pdb
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\Debug\ShellCodeRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\Debug\ShellCodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\Debug\ShellCodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\Debug\ShellCodeRunner.exe
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\Debug\ShellCodeRunner.pdb

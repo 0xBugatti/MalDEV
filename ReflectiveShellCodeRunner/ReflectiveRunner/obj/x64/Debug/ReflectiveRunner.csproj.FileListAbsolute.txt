@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ReflectiveShellCodeRunner\ReflectiveRunner\bin\x64\Debug\ReflectiveRunner.exe.config
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ReflectiveShellCodeRunner\ReflectiveRunner\bin\x64\Debug\ReflectiveRunner.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ReflectiveShellCodeRunner\ReflectiveRunner\bin\x64\Debug\ReflectiveRunner.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ReflectiveShellCodeRunner\ReflectiveRunner\obj\x64\Debug\ReflectiveRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ReflectiveShellCodeRunner\ReflectiveRunner\obj\x64\Debug\ReflectiveRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ReflectiveShellCodeRunner\ReflectiveRunner\obj\x64\Debug\ReflectiveRunner.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ReflectiveShellCodeRunner\ReflectiveRunner\obj\x64\Debug\ReflectiveRunner.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ReflectiveShellCodeRunner\ReflectiveRunner\obj\x64\Debug\ReflectiveRunner.pdb

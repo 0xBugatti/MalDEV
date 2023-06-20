@@ -1,0 +1,24 @@
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\bin\x64\Release\ShellCodeRunner.exe.config
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\bin\x64\Release\ShellCodeRunner.exe
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\bin\x64\Release\ShellCodeRunner.pdb
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.exe
+C:\Users\Blu-Ray\source\dlls\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunner\ShellCodeRunner\bin\x64\Release\ShellCodeRunner.exe.config
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunner\ShellCodeRunner\bin\x64\Release\ShellCodeRunner.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunner\ShellCodeRunner\bin\x64\Release\ShellCodeRunner.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ShellCodeRunner\ShellCodeRunner\bin\x64\Release\ShellCodeRunner.exe.config
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ShellCodeRunner\ShellCodeRunner\bin\x64\Release\ShellCodeRunner.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ShellCodeRunner\ShellCodeRunner\bin\x64\Release\ShellCodeRunner.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCode Runners\ShellCodeRunner\ShellCodeRunner\obj\x64\Release\ShellCodeRunner.pdb
