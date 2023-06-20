@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\ReflEncShellCodeRunner\ReflEncShellCodeRunner\bin\x64\Debug\ReflEncShellCodeRunner.exe.config
+C:\Users\Blu-Ray\source\testing\ReflEncShellCodeRunner\ReflEncShellCodeRunner\bin\x64\Debug\ReflEncShellCodeRunner.exe
+C:\Users\Blu-Ray\source\testing\ReflEncShellCodeRunner\ReflEncShellCodeRunner\bin\x64\Debug\ReflEncShellCodeRunner.pdb
+C:\Users\Blu-Ray\source\testing\ReflEncShellCodeRunner\ReflEncShellCodeRunner\obj\x64\Debug\ReflEncShellCodeRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\ReflEncShellCodeRunner\ReflEncShellCodeRunner\obj\x64\Debug\ReflEncShellCodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\ReflEncShellCodeRunner\ReflEncShellCodeRunner\obj\x64\Debug\ReflEncShellCodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\ReflEncShellCodeRunner\ReflEncShellCodeRunner\obj\x64\Debug\ReflEncShellCodeRunner.exe
+C:\Users\Blu-Ray\source\testing\ReflEncShellCodeRunner\ReflEncShellCodeRunner\obj\x64\Debug\ReflEncShellCodeRunner.pdb

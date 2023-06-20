@@ -1,0 +1,47 @@
+Renamed Types:
+
+[ShellCodeRunnerB64]쀚.쀚/쀚 -> [ShellCodeRunnerB64]턖.턖/턖
+{
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쀚 -> 턭
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쁼 -> 털
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쀭 -> 텱
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::삄 -> 턽
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쁴 -> 텥
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쀦 -> 턩
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쁦 -> 턎
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쁱 -> 텘
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쁺 -> 턶
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쀣 -> 턐
+	쀚.쀚/쀚 [ShellCodeRunnerB64]쀚.쀚/쀚 쀚.쀚/쀚::쀴 -> 턊
+
+	System.Int32 [ShellCodeRunnerB64]System.Int32 쀚.쀚/쀚::value__ skipped:  special name
+}
+
+[ShellCodeRunnerB64]쀚.쀚 -> [ShellCodeRunnerB64]턖.턖
+{
+	[ShellCodeRunnerB64]쀚.쀚::쀚[4]( [mscorlib]System.IntPtr, [mscorlib]System.UIntPtr, [mscorlib]System.UInt32, [mscorlib]System.UInt32& ) -> 턖
+	[ShellCodeRunnerB64]쀚.쀚::쀚[6]( [mscorlib]System.IntPtr, [mscorlib]System.IntPtr, [mscorlib]System.UInt32, [mscorlib]System.UInt32, [mscorlib]System.UInt32, [mscorlib]System.UInt32 ) -> 턖
+	[ShellCodeRunnerB64]쀚.쀚::쀚[0]( ) -> 턖
+	[ShellCodeRunnerB64]쀚.쀚::쀚[2]( [mscorlib]System.String, [mscorlib]System.String ) -> 턖
+	[ShellCodeRunnerB64]쀚.쀚::쀚[2]( [mscorlib]System.Byte[], [mscorlib]System.Int32 ) -> 턖
+	[ShellCodeRunnerB64]쀚.쀚::쀚[1]( [mscorlib]System.String[] ) -> 턖
+
+	[ShellCodeRunnerB64]쀚.쀚::.ctor[0]( ) skipped:  special name
+}
+
+[ShellCodeRunnerB64]쀚.쀚/쁼 -> [ShellCodeRunnerB64]턖.턖/탽
+{
+
+	[ShellCodeRunnerB64]쀚.쀚/쁼::.ctor[2]( [mscorlib]System.Object, [mscorlib]System.IntPtr ) skipped:  runtime method
+	[ShellCodeRunnerB64]쀚.쀚/쁼::Invoke[0]( ) skipped:  runtime method
+	[ShellCodeRunnerB64]쀚.쀚/쁼::BeginInvoke[2]( [mscorlib]System.AsyncCallback, [mscorlib]System.Object ) skipped:  runtime method
+	[ShellCodeRunnerB64]쀚.쀚/쁼::EndInvoke[1]( [mscorlib]System.IAsyncResult ) skipped:  runtime method
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+

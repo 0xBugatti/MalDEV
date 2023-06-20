@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflEncShellCodeRunner", "ReflEncShellCodeRunner\ReflEncShellCodeRunner.csproj", "{569D798D-2949-4DEE-938F-A08979F7BFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569D798D-2949-4DEE-938F-A08979F7BFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569D798D-2949-4DEE-938F-A08979F7BFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569D798D-2949-4DEE-938F-A08979F7BFDA}.Debug|x64.ActiveCfg = Debug|x64
+		{569D798D-2949-4DEE-938F-A08979F7BFDA}.Debug|x64.Build.0 = Debug|x64
+		{569D798D-2949-4DEE-938F-A08979F7BFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569D798D-2949-4DEE-938F-A08979F7BFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569D798D-2949-4DEE-938F-A08979F7BFDA}.Release|x64.ActiveCfg = Release|x64
+		{569D798D-2949-4DEE-938F-A08979F7BFDA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E19D92F-6315-419A-896B-40AF5A2D8554}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunnerB64\ShellCodeRunnerB64\bin\x64\Debug\ShellCodeRunnerB64.exe.config
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunnerB64\ShellCodeRunnerB64\bin\x64\Debug\ShellCodeRunnerB64.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunnerB64\ShellCodeRunnerB64\bin\x64\Debug\ShellCodeRunnerB64.pdb
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunnerB64\ShellCodeRunnerB64\obj\x64\Debug\ShellCodeRunnerB64.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunnerB64\ShellCodeRunnerB64\obj\x64\Debug\ShellCodeRunnerB64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunnerB64\ShellCodeRunnerB64\obj\x64\Debug\ShellCodeRunnerB64.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunnerB64\ShellCodeRunnerB64\obj\x64\Debug\ShellCodeRunnerB64.exe
+C:\Users\Blu-Ray\0xTest\0xOSEP\C#\ShellCodeRunnerB64\ShellCodeRunnerB64\obj\x64\Debug\ShellCodeRunnerB64.pdb
