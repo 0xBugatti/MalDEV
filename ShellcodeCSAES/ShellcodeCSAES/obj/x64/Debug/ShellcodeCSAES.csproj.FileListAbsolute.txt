@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\ShellcodeCSAES\ShellcodeCSAES\obj\x64\Debug\ShellcodeCSAES.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\ShellcodeCSAES\ShellcodeCSAES\obj\x64\Debug\ShellcodeCSAES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\ShellcodeCSAES\ShellcodeCSAES\obj\x64\Debug\ShellcodeCSAES.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\ShellcodeCSAES\ShellcodeCSAES\bin\x64\Debug\ShellcodeCSAES.exe.config
+C:\Users\Blu-Ray\source\testing\ShellcodeCSAES\ShellcodeCSAES\bin\x64\Debug\ShellcodeCSAES.exe
+C:\Users\Blu-Ray\source\testing\ShellcodeCSAES\ShellcodeCSAES\bin\x64\Debug\ShellcodeCSAES.pdb
+C:\Users\Blu-Ray\source\testing\ShellcodeCSAES\ShellcodeCSAES\obj\x64\Debug\ShellcodeCSAES.exe
+C:\Users\Blu-Ray\source\testing\ShellcodeCSAES\ShellcodeCSAES\obj\x64\Debug\ShellcodeCSAES.pdb

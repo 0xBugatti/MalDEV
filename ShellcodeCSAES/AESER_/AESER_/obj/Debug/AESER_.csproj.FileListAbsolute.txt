@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\AESER_\AESER_\obj\Debug\AESER_.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\AESER_\AESER_\obj\Debug\AESER_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\AESER_\AESER_\obj\Debug\AESER_.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\AESER_\AESER_\bin\Debug\AESER_.exe.config
+C:\Users\Blu-Ray\source\testing\AESER_\AESER_\bin\Debug\AESER_.exe
+C:\Users\Blu-Ray\source\testing\AESER_\AESER_\bin\Debug\AESER_.pdb
+C:\Users\Blu-Ray\source\testing\AESER_\AESER_\obj\Debug\AESER_.exe
+C:\Users\Blu-Ray\source\testing\AESER_\AESER_\obj\Debug\AESER_.pdb

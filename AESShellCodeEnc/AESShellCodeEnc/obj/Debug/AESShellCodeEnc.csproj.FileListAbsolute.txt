@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\AESShellCodeEnc\AESShellCodeEnc\obj\Debug\AESShellCodeEnc.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\AESShellCodeEnc\AESShellCodeEnc\obj\Debug\AESShellCodeEnc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\AESShellCodeEnc\AESShellCodeEnc\obj\Debug\AESShellCodeEnc.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\AESShellCodeEnc\AESShellCodeEnc\bin\Debug\AESShellCodeEnc.exe.config
+C:\Users\Blu-Ray\source\testing\AESShellCodeEnc\AESShellCodeEnc\bin\Debug\AESShellCodeEnc.exe
+C:\Users\Blu-Ray\source\testing\AESShellCodeEnc\AESShellCodeEnc\bin\Debug\AESShellCodeEnc.pdb
+C:\Users\Blu-Ray\source\testing\AESShellCodeEnc\AESShellCodeEnc\obj\Debug\AESShellCodeEnc.exe
+C:\Users\Blu-Ray\source\testing\AESShellCodeEnc\AESShellCodeEnc\obj\Debug\AESShellCodeEnc.pdb
