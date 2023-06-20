@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\Csharp CalldotNETorCPPDll [LoadLibrary Method]\Csharp CalldotNETorCPPDll [LoadLibrary Method]\bin\Debug\Csharp CalldotNETorCPPDll [LoadLibrary Method].exe.config
+C:\Users\Blu-Ray\source\testing\Csharp CalldotNETorCPPDll [LoadLibrary Method]\Csharp CalldotNETorCPPDll [LoadLibrary Method]\bin\Debug\Csharp CalldotNETorCPPDll [LoadLibrary Method].exe
+C:\Users\Blu-Ray\source\testing\Csharp CalldotNETorCPPDll [LoadLibrary Method]\Csharp CalldotNETorCPPDll [LoadLibrary Method]\bin\Debug\Csharp CalldotNETorCPPDll [LoadLibrary Method].pdb
+C:\Users\Blu-Ray\source\testing\Csharp CalldotNETorCPPDll [LoadLibrary Method]\Csharp CalldotNETorCPPDll [LoadLibrary Method]\obj\Debug\Csharp CalldotNETorCPPDll [LoadLibrary Method].csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\Csharp CalldotNETorCPPDll [LoadLibrary Method]\Csharp CalldotNETorCPPDll [LoadLibrary Method]\obj\Debug\Csharp CalldotNETorCPPDll [LoadLibrary Method].csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\Csharp CalldotNETorCPPDll [LoadLibrary Method]\Csharp CalldotNETorCPPDll [LoadLibrary Method]\obj\Debug\Csharp CalldotNETorCPPDll [LoadLibrary Method].csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\Csharp CalldotNETorCPPDll [LoadLibrary Method]\Csharp CalldotNETorCPPDll [LoadLibrary Method]\obj\Debug\Csharp CalldotNETorCPPDll [LoadLibrary Method].exe
+C:\Users\Blu-Ray\source\testing\Csharp CalldotNETorCPPDll [LoadLibrary Method]\Csharp CalldotNETorCPPDll [LoadLibrary Method]\obj\Debug\Csharp CalldotNETorCPPDll [LoadLibrary Method].pdb

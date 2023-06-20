@@ -1,0 +1,55 @@
+Renamed Types:
+
+[RefLectiveTest]<PrivateImplementationDetails> -> [RefLectiveTest]륂.륍
+{
+	<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1287 [RefLectiveTest]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1287 <PrivateImplementationDetails>::48A00647CE87C0F2D49199E422B0CB976F11F0F78B89B2D35FC45F5E48AC0682 -> 륂
+}
+
+[RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_0 -> [RefLectiveTest]륂.륂/륂
+{
+	System.Reflection.MethodInfo [RefLectiveTest]System.Reflection.MethodInfo RefLectiveTest.Program/<>c__DisplayClass0_0::GetProcADDR -> 륍
+	System.Reflection.MethodInfo [RefLectiveTest]System.Reflection.MethodInfo RefLectiveTest.Program/<>c__DisplayClass0_0::GetModuleHAND -> 룶
+}
+
+[RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_1 -> [RefLectiveTest]륂.륂/륍
+{
+	System.String [RefLectiveTest]System.String RefLectiveTest.Program/<>c__DisplayClass0_1::DLLName -> 륁
+	System.String [RefLectiveTest]System.String RefLectiveTest.Program/<>c__DisplayClass0_1::FucntionName -> 뤯
+}
+
+[RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_2 -> [RefLectiveTest]륂.륂/룶
+{
+	System.String [RefLectiveTest]System.String RefLectiveTest.Program/<>c__DisplayClass0_2::DLLName -> 륞
+	System.String [RefLectiveTest]System.String RefLectiveTest.Program/<>c__DisplayClass0_2::FucntionName -> 륯
+}
+
+[RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_3 -> [RefLectiveTest]륂.륂/륁
+{
+	System.String [RefLectiveTest]System.String RefLectiveTest.Program/<>c__DisplayClass0_3::DLLName -> 륖
+	System.String [RefLectiveTest]System.String RefLectiveTest.Program/<>c__DisplayClass0_3::FucntionName -> 륚
+}
+
+[RefLectiveTest]RefLectiveTest.Program -> [RefLectiveTest]륂.륂
+{
+	[RefLectiveTest]RefLectiveTest.Program::Main[1]( [mscorlib]System.String[] ) -> 륂
+	[RefLectiveTest]RefLectiveTest.Program::<Main>g__ExecFunctionWithReflection6|0_0[10]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_0& ) -> 륂
+	[RefLectiveTest]RefLectiveTest.Program::<Main>g__DynamicLookUPFunc|0_3[2]( [RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_0&, [RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_1& ) -> 륂
+	[RefLectiveTest]RefLectiveTest.Program::<Main>g__ExecFunctionWithReflection2|0_1[6]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_0& ) -> 륂
+	[RefLectiveTest]RefLectiveTest.Program::<Main>g__DynamicLookUPFunc|0_4[2]( [RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_0&, [RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_2& ) -> 륂
+	[RefLectiveTest]RefLectiveTest.Program::<Main>g__ExecFunctionWithReflection4|0_2[8]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_0& ) -> 륂
+	[RefLectiveTest]RefLectiveTest.Program::<Main>g__DynamicLookUPFunc|0_5[2]( [RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_0&, [RefLectiveTest]RefLectiveTest.Program/<>c__DisplayClass0_3& ) -> 륂
+
+	[RefLectiveTest]RefLectiveTest.Program::.ctor[0]( ) skipped:  special name
+}
+
+[RefLectiveTest]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=1287 -> [RefLectiveTest]륂.륍/륂
+{
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+

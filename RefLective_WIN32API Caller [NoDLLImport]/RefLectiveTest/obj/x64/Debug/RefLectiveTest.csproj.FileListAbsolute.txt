@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\RefLectiveTest\RefLectiveTest\bin\x64\Debug\RefLectiveTest.exe.config
+C:\Users\Blu-Ray\source\testing\RefLectiveTest\RefLectiveTest\bin\x64\Debug\RefLectiveTest.exe
+C:\Users\Blu-Ray\source\testing\RefLectiveTest\RefLectiveTest\bin\x64\Debug\RefLectiveTest.pdb
+C:\Users\Blu-Ray\source\testing\RefLectiveTest\RefLectiveTest\obj\x64\Debug\RefLectiveTest.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\RefLectiveTest\RefLectiveTest\obj\x64\Debug\RefLectiveTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\RefLectiveTest\RefLectiveTest\obj\x64\Debug\RefLectiveTest.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\RefLectiveTest\RefLectiveTest\obj\x64\Debug\RefLectiveTest.exe
+C:\Users\Blu-Ray\source\testing\RefLectiveTest\RefLectiveTest\obj\x64\Debug\RefLectiveTest.pdb

@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\Encoder\Encoder\bin\Debug\Encoder.exe.config
+C:\Users\Blu-Ray\source\testing\Encoder\Encoder\bin\Debug\Encoder.exe
+C:\Users\Blu-Ray\source\testing\Encoder\Encoder\bin\Debug\Encoder.pdb
+C:\Users\Blu-Ray\source\testing\Encoder\Encoder\obj\Debug\Encoder.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\Encoder\Encoder\obj\Debug\Encoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\Encoder\Encoder\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\Encoder\Encoder\obj\Debug\Encoder.exe
+C:\Users\Blu-Ray\source\testing\Encoder\Encoder\obj\Debug\Encoder.pdb
