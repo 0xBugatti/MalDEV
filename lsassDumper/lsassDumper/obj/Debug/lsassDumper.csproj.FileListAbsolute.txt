@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\lsassDumper\lsassDumper\bin\Debug\lsassDumper.exe.config
+C:\Users\Blu-Ray\source\testing\lsassDumper\lsassDumper\bin\Debug\lsassDumper.exe
+C:\Users\Blu-Ray\source\testing\lsassDumper\lsassDumper\bin\Debug\lsassDumper.pdb
+C:\Users\Blu-Ray\source\testing\lsassDumper\lsassDumper\obj\Debug\lsassDumper.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\lsassDumper\lsassDumper\obj\Debug\lsassDumper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\lsassDumper\lsassDumper\obj\Debug\lsassDumper.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\lsassDumper\lsassDumper\obj\Debug\lsassDumper.exe
+C:\Users\Blu-Ray\source\testing\lsassDumper\lsassDumper\obj\Debug\lsassDumper.pdb

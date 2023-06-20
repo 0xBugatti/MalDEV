@@ -1,0 +1,8 @@
+C:\Users\Blu-Ray\source\testing\PowerShellRunner\PowerShellRunner\obj\Debug\PowerShellRunner.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\testing\PowerShellRunner\PowerShellRunner\obj\Debug\PowerShellRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blu-Ray\source\testing\PowerShellRunner\PowerShellRunner\obj\Debug\PowerShellRunner.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\testing\PowerShellRunner\PowerShellRunner\bin\Debug\PowerShellRunner.exe.config
+C:\Users\Blu-Ray\source\testing\PowerShellRunner\PowerShellRunner\bin\Debug\PowerShellRunner.exe
+C:\Users\Blu-Ray\source\testing\PowerShellRunner\PowerShellRunner\bin\Debug\PowerShellRunner.pdb
+C:\Users\Blu-Ray\source\testing\PowerShellRunner\PowerShellRunner\obj\Debug\PowerShellRunner.exe
+C:\Users\Blu-Ray\source\testing\PowerShellRunner\PowerShellRunner\obj\Debug\PowerShellRunner.pdb

@@ -1,0 +1,29 @@
+Renamed Types:
+
+[Process Enumerator]<PrivateImplementationDetails> -> [Process Enumerator]쑁.쑔
+{
+	<PrivateImplementationDetails>/__StaticArrayInitTypeSize=276 [Process Enumerator]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=276 <PrivateImplementationDetails>::CDFC6F54B685B67C6FDF266D83A401FD5009CC50653E2ED93A95CBCEFA64F53E -> 쑁
+}
+
+[Process Enumerator]Process_Enumerator.Program -> [Process Enumerator]쑁.쑁
+{
+	[Process Enumerator]Process_Enumerator.Program::OpenProcess[3]( [mscorlib]System.UInt32, [mscorlib]System.Boolean, [mscorlib]System.Int32 ) -> 쑁
+	[Process Enumerator]Process_Enumerator.Program::VirtualAllocEx[5]( [mscorlib]System.IntPtr, [mscorlib]System.IntPtr, [mscorlib]System.UInt32, [mscorlib]System.UInt32, [mscorlib]System.UInt32 ) -> 쑁
+	[Process Enumerator]Process_Enumerator.Program::WriteProcessMemory[5]( [mscorlib]System.IntPtr, [mscorlib]System.IntPtr, [mscorlib]System.Byte[], [mscorlib]System.Int32, [mscorlib]System.IntPtr& ) -> 쑁
+	[Process Enumerator]Process_Enumerator.Program::CreateRemoteThread[7]( [mscorlib]System.IntPtr, [mscorlib]System.IntPtr, [mscorlib]System.UInt32, [mscorlib]System.IntPtr, [mscorlib]System.IntPtr, [mscorlib]System.UInt32, [mscorlib]System.IntPtr ) -> 쑁
+	[Process Enumerator]Process_Enumerator.Program::Main[1]( [mscorlib]System.String[] ) -> 쑁
+
+	[Process Enumerator]Process_Enumerator.Program::.ctor[0]( ) skipped:  special name
+}
+
+[Process Enumerator]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=276 -> [Process Enumerator]쑁.쑔/쑁
+{
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+
